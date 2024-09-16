@@ -9,5 +9,5 @@ Adds more areas to the NAV menu. Currently includes:
 In the `SYS` menu, under `MINDSPIKE DATA MANAGEMENT` > `ADVANCED OPERATIONS` > `MODIFICATION URL LIST`, add this line:
 
 ```url
-https://raw.githubusercontent.com/OvercastWarmth/corru.observer-mods/main/BetterNAV/mod.js
+https://overcastwarmth.github.io/corru.observer-mods/BetterNAV/mod.js
 ```

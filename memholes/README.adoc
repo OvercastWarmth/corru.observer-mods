@@ -16,5 +16,5 @@ NOTE: The installation methods here may show you a scary looking warning about m
 . Navigate to https://corru.observer/local/uncosm/spire/?force.
   *DO NOT PRESS THE ENTER BUTTON*
 . Open inspect element (usually kbd:[Ctrl+Shift+I]) and navigate to the menu:Console[] menu
-. Paste `javascript:(function(){addResources(["https://overcastwarmth.github.io/corru.observer-mods/memholes/YnJva2Vu"])})();` into the console.
+. Paste `javascript:(function(){addResources(["https://overcastwarmth.github.io/corru.observer-mods/memholes/YnJva2Vu.js"])})();` into the console.
 . _Now_ you can continue. The memory stream should be all set!

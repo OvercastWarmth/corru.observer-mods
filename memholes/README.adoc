@@ -1,0 +1,20 @@
+= memholes
+:experimental:
+
+A collection of recollection streams.
+This is less of a singular mod and more of a collection of various ones.
+Maybe one day we will figure out how to combine these into one mod.
+For now, you can view installation instructions for each of them below.
+
+NOTE: The installation methods here may show you a scary looking warning about making sure you trust the code you're pasting into the console.
+	This is good advice.
+	Don't blindly trust us.
+	Read through the source code first to make sure you trust what we're running in your browser.
+
+== `YnJva2Vu`
+
+. Navigate to https://corru.observer/local/uncosm/spire/?force.
+  *DO NOT PRESS THE ENTER BUTTON*
+. Open inspect element (usually kbd:[Ctrl+Shift+I]) and navigate to the menu:Console[] menu
+. Paste `javascript:(function(){addResources(["https://overcastwarmth.github.io/corru.observer-mods/memholes/YnJva2Vu"])})();` into the console.
+. _Now_ you can continue. The memory stream should be all set!

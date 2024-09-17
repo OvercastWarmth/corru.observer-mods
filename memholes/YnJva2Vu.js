@@ -46,7 +46,7 @@ start
 
     sourceless
         i take a second to recollect myself
-        i should stop starting at the cars passing by
+        i should stop staring at the cars passing by
         i must be worrying them...
 
     broken
